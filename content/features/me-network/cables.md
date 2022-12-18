@@ -181,3 +181,11 @@ There is also an inverted version of the toggle bus that disables the connection
 when a redstone signal is supplied.
 
 <RecipeFor id="inverted_toggle_bus" />
+
+## Quartz fiber
+
+![A picture of smart cable.](../../../public/icons/ae2/quartz_fiber.png)
+
+A fiber that transfers power but not channels. It is a shorter length than a cable and can be placed on existing cables. A common use is to transfer power across <ItemLink id="me-network" /> boundaries while keeping the networks separate. They're commonly used as part of a <ItemLink id="me_p2p_tunnel" /> or with an <ItemLink id="interface" /> to create sub-networks.
+
+<RecipeFor id="quartz_fiber" />
